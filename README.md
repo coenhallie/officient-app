@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+## Homepage
+![Racebets interface](https://github.com/coenhallie/officient-app/blob/master/src/assets/officient-home.png?raw=true "Title")
+
+## Details page
+![Racebets interface](https://github.com/coenhallie/officient-app/blob/master/src/assets/officient-details.png?raw=true "Title")
+
 ## Build Setup
 
 ``` bash
