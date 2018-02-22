@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Homepage
-![Racebets interface](https://github.com/coenhallie/officient-app/blob/master/src/assets/officient-home.png?raw=true "Title")
+![Racebets interface](https://github.com/coenhallie/officient-app/blob/master/src/assets/officient-home.jpg?raw=true "Title")
 
 ## Details page
 ![Racebets interface](https://github.com/coenhallie/officient-app/blob/master/src/assets/officient-details.jpg?raw=true "Title")
