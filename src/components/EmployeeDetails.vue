@@ -88,7 +88,7 @@ export default {
       axios
         .get(`/api/assets/list`, {
           headers: {
-            'Authorization': 'Bearer a7ef8a4075c8c0d9b951b029f0be5844ae32c100'
+            'Authorization': 'Bearer 5ffede2007d78f1920eb54a3ffa606aa8a279990'
           }
         })
         .then(response => {
@@ -102,7 +102,7 @@ export default {
       axios
         .get(`/api/wages/${this.$route.params.id}/current`, {
           headers: {
-            'Authorization': 'Bearer a7ef8a4075c8c0d9b951b029f0be5844ae32c100'
+            'Authorization': 'Bearer 5ffede2007d78f1920eb54a3ffa606aa8a279990'
           }
         })
         .then((response) => {
@@ -116,7 +116,7 @@ export default {
       axios
         .get(`/api/people/${this.$route.params.id}/detail`, {
           headers: {
-            'Authorization': 'Bearer a7ef8a4075c8c0d9b951b029f0be5844ae32c100'
+            'Authorization': 'Bearer 5ffede2007d78f1920eb54a3ffa606aa8a279990'
           }
         })
         .then((response) => {

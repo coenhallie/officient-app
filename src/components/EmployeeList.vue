@@ -55,7 +55,7 @@ export default {
       vm.isLoading = true
       let token = {
         headers: {
-          Authorization: 'Bearer a7ef8a4075c8c0d9b951b029f0be5844ae32c100'
+          Authorization: 'Bearer 5ffede2007d78f1920eb54a3ffa606aa8a279990'
         }
       }
       axios
