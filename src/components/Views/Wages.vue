@@ -14,9 +14,6 @@
     <b>Saturday:</b> {{wages.weekly_time_engagement_minutes.saturday / 60}}<br>
     <b>Sunday:</b> {{wages.weekly_time_engagement_minutes.sunday / 60}}<br>
   </div>
-  <div v-else>
-    <h2>meh..</h2>
-  </div>
 </template>
 
 <script>
