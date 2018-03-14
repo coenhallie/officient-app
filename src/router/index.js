@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import EmployeeList from '@/components/EmployeeList'
-import EmployeeDetails from '@/components/EmployeeDetails'
+import EmployeeDetails from '@/components/Layout/EmployeeDetails'
+import Home from '@/components/Layout/Home'
 
 Vue.use(Router)
 
@@ -10,9 +10,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'EmployeeList',
-      component: EmployeeList,
-      props: {name: 'avatar'}
+      name: 'Home',
+      component: Home
     },
     {
       path: '/details/:id',
